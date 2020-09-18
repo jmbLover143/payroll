@@ -1,0 +1,63 @@
+	         .head{
+
+            height: 120px;
+            width: 900px;
+            border:2px solid #42c8f5;
+            margin: 0 auto;
+			margin-top: 0px;
+			border-radius: 2px;
+			background-color: #42c8f5;
+        }.container{
+			margin: 0 auto;
+		}
+		b{
+			font-family: TAHOMA;
+			font-color: #42c8f5;
+		}
+		select{height: 28px;width: 100px;}
+		
+		
+		img{margin-left: 100px;height: 100px;margin:0 auto}
+		.head-input{width: 400px;height: 20px;}
+		.payment{height: 20px;}
+		.adjust{margin-left:30px;}
+		input{font-size: 16px;text-transform: uppercase}
+		.inner-body{
+			height: 50px;
+            width: 900px;
+            border:1px solid #42c8f5;
+            margin: 0 auto;
+			margin-top: 0px;
+			border-radius: 2px;
+			background-color: #42c8f5;
+
+		}
+		.footer-line{float: right}
+		button{height: 35px;width:200px;margin-top: 5px;}
+		.size1{width:120px;height:25px;}
+		.size2{width:80px;height:25px;}
+		.size3{width:140px;height:25px;}
+		.footer{border:1px solid #42c8f5;height:50px;width;900px;background-color: #42c8f5;}
+        h1,h2{font-family: tahoma}
+		h3{margin-top:-20px;}
+		.recordhead{height: 50px;
+            width: 900px;
+            border:2px solid #42c8f5;
+            margin: 0 auto;
+			margin-top: 0px;
+			border-radius: 2px;
+			background-color: #42c8f5;} 
+			.box{border: px solid black;height:420px;width: 900px;margin: 0 auto;overflow: scroll}
+			.box2{text-align: center;border: 1px solid black;width: 600px;height: 1px;overflow: scroll;}
+			.hold{border: 1px solid black;background-color: red;text-align: center;color: white;height: 35px;width: auto;}
+		.footer2{
+			height: 50px;
+            width: 900px;
+            border:2px solid #42c8f5;
+            margin: 0 auto;
+			margin-top: 0px;
+			border-radius: 2px;
+			background-color: #42c8f5;
+		}	
+				.font{border:1px solid black}
+			.namestyle{width:200px}
